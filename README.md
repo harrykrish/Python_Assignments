@@ -1,5 +1,9 @@
 # Python_Assignments
-### Feedback:
+### Feedback
+Assignment 2:
+->I could not see any folder structure for Q2.
+->The 2nd part of question 2 is not there
+</br>
 - I can see your effort, and it is good that you done the work on your own. Also I can tell that you may face problems doing assignment 2. You may not always have a Chinese TA and a nice Indian TA, please use us if you have any doubts. Hari and me are always here to help.
 - I listed some problems I found in your code below. 
 - Question 1&2: Result should be sorted.
